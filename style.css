@@ -1,0 +1,422 @@
+body{
+    font-family: arial;
+}
+
+header{
+    background-color: white;
+    height: 15%;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 0px 4px;
+}
+header img{
+    width: 7%;
+    position: relative;
+    left: 2rem;
+    top: 1rem;
+}
+
+.main-nav li{
+    
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.main-nav li .v{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 10rem;
+}
+.main-nav .v:hover{
+    text-decoration: underline;
+}
+.main-nav li .p{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 12rem;
+}
+.main-nav .p:hover{
+    text-decoration: underline;
+}
+.main-nav li .o{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 14rem;
+}
+.main-nav .o:hover{
+    text-decoration: underline;
+}
+.main-nav li .e{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 16rem;
+}
+.main-nav .e:hover{
+    text-decoration: underline;
+}
+.main-nav li .b{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 18rem;
+}
+.main-nav .b:hover{
+    text-decoration: underline;
+}
+.main-nav li .s{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 50rem;
+    font-size: 30px;
+}
+.main-nav li .l{
+    text-decoration: none;
+    color: #000;
+    position: relative;
+    bottom: 3rem;
+    left: 55rem;
+    font-size: 30px;
+}
+.the-new-range-rover{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.the-new-range-rover img{
+    max-width: 100%;
+}
+.the-new-range-rover ul{
+    list-style-type: none;
+    position: relative;
+    right: 2rem;
+}
+.the-new-range-rover .etv{
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.the-new-range-rover .byo{
+    position: relative;
+    top: 1.5rem;
+    font-size: 12px;
+    color: #000;
+}
+.the-new-range-rover-sport{
+    width: 100%;
+    background-color: white;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.the-new-range-rover-sport img{
+    max-width: 100%;
+}
+.the-new-range-rover-sport ul{
+    list-style-type: none;
+    position: relative;
+    right: 2rem;
+}
+.the-new-range-rover-sport .etv{
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.the-new-range-rover-sport .byo{
+    position: relative;
+    top: 1.5rem;
+    font-size: 12px;
+    color: #000;
+}
+.the-new-range-rover-velar{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.the-new-range-rover-velar img{
+    max-width: 100%;
+}
+.the-new-range-rover-velar ul{
+    list-style-type: none;
+    position: relative;
+    right: 2rem;
+}
+.the-new-range-rover-velar .etv{
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.the-new-range-rover-velar .byo{
+    position: relative;
+    top: 1.5rem;
+    font-size: 12px;
+    color: #000;
+}
+.range-rover-evogue{
+    width: 100%;
+    background-color: white;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.range-rover-evogue img{
+    max-width: 100%;
+}
+.range-rover-evogue ul{
+    list-style-type: none;
+    position: relative;
+    right: 2rem;
+}
+.range-rover-evogue .etv{
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    font-size: 13px;
+    text-decoration: none;
+}
+.range-rover-evogue .byo{
+    position: relative;
+    top: 1.5rem;
+    font-size: 12px;
+    color: #000;
+}
+main .etv:hover{
+    background-color: #f1f1f1;
+    color: #000;
+    box-shadow: 1px 1px 4px;
+}
+.range-rover-dna{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.range-rover-dna img{
+    max-width: 100%;
+}
+.contemporary-elegance{
+    width: 100%;
+    background-color: white;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.contemporary-elegance img{
+    max-width: 100%;
+}
+.sophisticated-luxury{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.sophisticated-luxury img{
+    max-width: 100%;
+}
+.engineering-excellence{
+    width: 100%;
+    background-color: white;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.engineering-excellence img{
+    max-width: 100%;
+}
+.quote{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 4rem;
+    position: relative;
+    right: 6rem;
+}
+.quote h3{
+    font-weight: 500;
+    font-size: 25px;
+}
+.quote .writers-name{
+    font-weight: 600;
+}
+.quote .role{
+    position: relative;
+    bottom: 1rem;
+}
+.quick-links1{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    font-size: 12px;
+}
+
+.quick-links1 > div{
+    margin: 10px;
+    padding: 20px;
+}
+.quick-links1 li{
+    list-style-type: none;
+}
+.quick-links2{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    font-size: 12px;
+}
+.quick-links2 > div{
+    margin: 10px;
+    padding: 20px;
+}
+.quick-links2 li{
+    list-style-type: none;
+}
+.quick-links1 .ownership{
+    position: relative;
+    left: 6rem;
+}
+.quick-links1 .about-us{
+    position: relative;
+    left: 8rem;
+}
+.quick-links1 .join-the-conversation{
+    position: relative;
+    left: 15rem;
+}
+.join-the-conversation-links .facebook{
+    height: 60px;
+    width: 70px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.facebook p{
+    position: relative;
+    
+}
+.join-the-conversation-links .twitter{
+    height: 60px;
+    background-color: #000;
+    width: 70px;
+    position: relative;
+    top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.join-the-conversation-links .youtube{
+    height: 60px;
+    width: 70px;
+    background-color: #000;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.join-the-conversation-links .instagram{
+    height: 60px;
+    width: 70px;
+    background-color: #000;
+    position: relative;
+    top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.join-the-conversation-links .fa{
+    color: white;
+    font-size: 40px;
+}
+
+.quick-links2 .vehicles{
+    position: relative;
+    bottom: 16rem;
+}
+.quick-links2 .experiences{
+    position: relative;
+    bottom: 11rem;
+    right: 1rem;
+}
+.quick-links1 a{
+    text-decoration: none;
+    color: rgb(58, 57, 57);
+}
+.quick-links2 a{
+    text-decoration: none;
+    color: rgb(58, 57, 57);
+}
+.quick-links1 p{
+    font-weight: 550;
+}
+.quick-links2 p{
+    font-weight: 550;
+}
+.mctc{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    position: relative;
+    bottom: 18rem;
+    font-size: 12px;
+    box-shadow: 0px 0px 1px;
+}
+.mctc li{
+    list-style-type: none;
+}
+.mctc a{
+    text-decoration: none;
+    color: rgb(58, 57, 57);
+}
+.mctc ul{
+    position: relative;
+    right: 2.5rem;
+}
+.show-more{
+    padding: 1rem;
+    width: 15%;
+    background-color: #f1f1f1;
+    font-weight: 550;
+    color: rgb(58, 57, 57);
+}
+.copyright{
+    width: 100%;
+    background-color: white;
+    font-size: 14px;
+    word-spacing: 4px;
+    color: rgb(58, 57, 57);
+    font-weight: 545;
+    position: relative;
+    bottom: 15rem;
+}
+.quick-links1 a:hover{
+    text-decoration: underline;
+}
+.quick-links2 a:hover{
+    text-decoration: underline;
+}
